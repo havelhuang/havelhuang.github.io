@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-- Dong, Yi<sup>*</sup>, **Wei Huang<sup>*</sup>**, Vibhav Bharti, Victoria Cox, Alec Banks, Sen Wang, Xingyu Zhao, Sven Schewe, and Xiaowei Huang. "Reliability assessment and safety arguments for machine learning components in system assurance." *ACM Transactions on Embedded Computing Systems (TECS)* 22, no. 3 (2023): 1-48.
+- Dong, Yi<sup>*</sup>, **Wei Huang**<sup>*</sup>, Vibhav Bharti, Victoria Cox, Alec Banks, Sen Wang, Xingyu Zhao, Sven Schewe, and Xiaowei Huang. "Reliability assessment and safety arguments for machine learning components in system assurance." *ACM Transactions on Embedded Computing Systems (TECS)* 22, no. 3 (2023): 1-48.
 
 - **Huang, Wei**, Xingyu Zhao, and Xiaowei Huang. "Embedding and extraction of knowledge in tree ensemble classifiers." *Machine Learning* (2022): 1-34.
 
