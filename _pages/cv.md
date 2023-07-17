@@ -17,7 +17,7 @@ Education
   
 Publications
 ======
-  check the post in [Publications](https://cgi.csc.liv.ac.uk/~wh1923//publications/)
+  check the post in [Publications](https://havelhuang.github.io/publications/)
 
 Project Experience
 ======
