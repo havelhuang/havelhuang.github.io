@@ -4,16 +4,18 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-- **Wei, Huang**, Xingyu Zhao, and Xiaowei Huang. "Embedding and Extraction of Knowledge in Tree Ensemble Classifiers." In *Machine Leaning*, Springer, 2021.
+- Dong, Yi, **Wei Huang**, Vibhav Bharti, Victoria Cox, Alec Banks, Sen Wang, Xingyu Zhao, Sven Schewe, and Xiaowei Huang. "Reliability assessment and safety arguments for machine learning components in system assurance." ACM Transactions on Embedded Computing Systems 22, no. 3 (2023): 1-48.
 
-- Xingyu Zhao, **Wei Huang**, Alec Banks, Victoria Cox, David Flynn, Sven Schewe, and Xiaowei Huang. "Assessing the Reliability of Deep Learning Classifiers through Robustness Evaluation and Operational Profiles." In *AISafety’21 Workshop at IJCAI’21* (Best Paper Award).
+- **Huang, Wei**, Xingyu Zhao, and Xiaowei Huang. "Embedding and extraction of knowledge in tree ensemble classifiers." *Machine Learning* (2022): 1-34.
 
-- Xingyu, Zhao, **Wei Huang**, Xiaowei Huang, Valentin Robu, and David Flynn. "BayLIME: Bayesian Local Interpretable Model-Agnostic Explanations." In *Uncertainty in Artificial Intelligence (UAI)*, PMLR, 2021.
+- Zhao, Xingyu, **Wei Huang**, Alec Banks, Victoria Cox, David Flynn, Sven Schewe, and Xiaowei Huang. "Assessing the reliability of deep learning classifiers through robustness evaluation and operational profiles." In *AISafety’21 Workshop at IJCAI’21* (Best Paper Award).
 
-- **Wei, Huang**, Youcheng Sun, Xingyu Zhao, James Sharp, Wenjie Ruan, Jie Meng, and Xiaowei Huang. "Coverage Guided Testing for Recurrent Neural Networks." In *IEEE Transactions on Reliability*, 2021.
+- Zhao, Xingyu, **Wei Huang**, Xiaowei Huang, Valentin Robu, and David Flynn. "Baylime: Bayesian local interpretable model-agnostic explanations." In *Uncertainty in artificial intelligence*, pp. 887-896. PMLR, 2021.
 
-- Xingyu, Zhao, **Wei Huang**, Sven Schewe, Yi Dong, and Xiaowei Huang. "Detecting Operational Adversarial Examples for Reliable Deep Learning." In *51<sup>st</sup> Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN'21)*, Fast Abstracts, 2021.
+- **Huang, Wei**, Youcheng Sun, Xingyu Zhao, James Sharp, Wenjie Ruan, Jie Meng, and Xiaowei Huang. "Coverage-guided testing for recurrent neural networks." *IEEE Transactions on Reliability* 71, no. 3 (2021): 1191-1206.
 
-- **Wei, Huang**, Yifan Zhou, Youcheng Sun, James Sharp, Simon Maskell, and Xiaowei Huang. "Practical Verification of Neural Network Enabled State Estimation System for Robotics." In *2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, pp. 7336-7343. IEEE.
+- Zhao, Xingyu, **Wei Huang**, Sven Schewe, Yi Dong, and Xiaowei Huang. "Detecting operational adversarial examples for reliable deep learning." In *2021 51st Annual IEEE/IFIP International Conference on Dependable Systems and Networks-Supplemental Volume (DSN-S)*, pp. 5-6. IEEE, 2021.
+
+- **Huang, Wei**, Yifan Zhou, Youcheng Sun, James Sharp, Simon Maskell, and Xiaowei Huang. "Practical verification of neural network enabled state estimation system for robotics." In *2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, pp. 7336-7343. IEEE, 2020.
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=qwqKoMAAAAAJ&hl=en)
