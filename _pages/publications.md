@@ -4,13 +4,13 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-- Dong, Yi, **Wei Huang**, Vibhav Bharti, Victoria Cox, Alec Banks, Sen Wang, Xingyu Zhao, Sven Schewe, and Xiaowei Huang. "Reliability assessment and safety arguments for machine learning components in system assurance." ACM Transactions on Embedded Computing Systems 22, no. 3 (2023): 1-48.
+- Dong, Yi<sup>*</sup>, **Wei Huang<sup>*</sup>**, Vibhav Bharti, Victoria Cox, Alec Banks, Sen Wang, Xingyu Zhao, Sven Schewe, and Xiaowei Huang. "Reliability assessment and safety arguments for machine learning components in system assurance." *ACM Transactions on Embedded Computing Systems (TECS)* 22, no. 3 (2023): 1-48.
 
 - **Huang, Wei**, Xingyu Zhao, and Xiaowei Huang. "Embedding and extraction of knowledge in tree ensemble classifiers." *Machine Learning* (2022): 1-34.
 
 - Zhao, Xingyu, **Wei Huang**, Alec Banks, Victoria Cox, David Flynn, Sven Schewe, and Xiaowei Huang. "Assessing the reliability of deep learning classifiers through robustness evaluation and operational profiles." In *AISafety’21 Workshop at IJCAI’21* (Best Paper Award).
 
-- Zhao, Xingyu, **Wei Huang**, Xiaowei Huang, Valentin Robu, and David Flynn. "Baylime: Bayesian local interpretable model-agnostic explanations." In *Uncertainty in artificial intelligence*, pp. 887-896. PMLR, 2021.
+- Zhao, Xingyu, **Wei Huang**, Xiaowei Huang, Valentin Robu, and David Flynn. "Baylime: Bayesian local interpretable model-agnostic explanations." In *Uncertainty in artificial intelligence (UAI)*, pp. 887-896. PMLR, 2021.
 
 - **Huang, Wei**, Youcheng Sun, Xingyu Zhao, James Sharp, Wenjie Ruan, Jie Meng, and Xiaowei Huang. "Coverage-guided testing for recurrent neural networks." *IEEE Transactions on Reliability* 71, no. 3 (2021): 1191-1206.
 
