@@ -6,7 +6,7 @@ author_profile: true
 ---
 Name: Wei Huang
 
-Address: Room 308, Ashton Building, University of Liverpool, L69 3BX, UK
+Address: Purple Mountain Laboratories, No.9, Muozhou East Road, Jiangning District, Nanjing, China
 
 Email: havelhuang@gmail.com
 
