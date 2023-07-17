@@ -4,7 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-- Dong, Yi, **Wei Huang**, Vibhav Bharti, Victoria Cox, Alec Banks, Sen Wang, Xingyu Zhao, Sven Schewe, and Xiaowei Huang. "Reliability assessment and safety arguments for machine learning components in system assurance." *ACM Transactions on Embedded Computing Systems (TECS)* 22, no. 3 (2023): 1-48.
+- Huang, Wei, Xingyu Zhao, Gaojie Jin, and Xiaowei Huang. "SAFARI: Versatile and Efficient Evaluations for Robustness of Interpretability." In *Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)*, 2023.
+
+- Dong, Yi\*, **Wei Huang**\*, Vibhav Bharti, Victoria Cox, Alec Banks, Sen Wang, Xingyu Zhao, Sven Schewe, and Xiaowei Huang. "Reliability assessment and safety arguments for machine learning components in system assurance." *ACM Transactions on Embedded Computing Systems (TECS)* 22, no. 3 (2023): 1-48.
+
+- Jin, Gaojie, Xinping Yi, **Wei Huang**, Sven Schewe, and Xiaowei Huang. "Enhancing adversarial training with second-order statistics of weights." In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, pp. 15273-15283. 2022.
 
 - **Huang, Wei**, Xingyu Zhao, and Xiaowei Huang. "Embedding and extraction of knowledge in tree ensemble classifiers." *Machine Learning* (2022): 1-34.
 
