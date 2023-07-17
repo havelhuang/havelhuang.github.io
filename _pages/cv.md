@@ -13,7 +13,7 @@ Education
 ======
 * B.Eng in Aircraft Propulsion Engineering, Xiamen University, 2017
 * M.Sc in Advanced Computational Methods for Aeronautics, Flow Management and Fluid-Structure Interaction , Imperial College London, 2018
-* Ph.D in Verification and Validation of AI system, University of Liverpool, 2023 (expected)
+* Ph.D in Verification and Validation of AI system, University of Liverpool, 2023
   
 Publications
 ======
