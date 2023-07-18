@@ -14,3 +14,7 @@ Hi there! My name is Wei Huang. I am currently a researcher at Purple Mountain L
 Reseach Interest
 ======
 My research interest remains in the field of AI safety. Machine learning models are suffering from the adversarial threats, like evasion attack, backdoor attack. I investigate into the attack and defence algorithms and develop the testing and verification methods for different machine learning models, including Ensemble Trees, CNNs, RNNs etc.  
+
+Recent News
+======
+07/2023  One Paper accepted to ICCV 2023 ! 
