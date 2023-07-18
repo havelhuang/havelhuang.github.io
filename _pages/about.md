@@ -17,4 +17,4 @@ My research interest remains in the field of AI safety. Machine learning models 
 
 Recent News
 ======
-07/2023  One Paper accepted to ICCV 2023 ! 
+(07/2023)  Paper "SAFARI: Versatile and Efficient Evaluations for Robustness of Interpretability" accepted to ICCV 2023 ! 
