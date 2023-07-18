@@ -20,7 +20,7 @@ author_profile: true
 
 - **Huang, Wei**, Yifan Zhou, Youcheng Sun, James Sharp, Simon Maskell, and Xiaowei Huang. "Practical verification of neural network enabled state estimation system for robotics." In 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**), pp. 7336-7343. IEEE, 2020.
 
-
+---
 Worshop Papers
 ---
 
