@@ -19,11 +19,9 @@ author_profile: true
 - Zhao, Xingyu, **Wei Huang**, Sven Schewe, Yi Dong, and Xiaowei Huang. "Detecting operational adversarial examples for reliable deep learning." In 2021 51st Annual IEEE/IFIP International Conference on Dependable Systems and Networks-Supplemental Volume (**DSN-S**), pp. 5-6. IEEE, 2021.
 
 - **Huang, Wei**, Yifan Zhou, Youcheng Sun, James Sharp, Simon Maskell, and Xiaowei Huang. "Practical verification of neural network enabled state estimation system for robotics." In 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**), pp. 7336-7343. IEEE, 2020.
-
----
+  
 Worshop Papers
----
-
+======
 - Zhao, Xingyu, **Wei Huang**, Alec Banks, Victoria Cox, David Flynn, Sven Schewe, and Xiaowei Huang. "Assessing the reliability of deep learning classifiers through robustness evaluation and operational profiles." In AISafety’21 Workshop at IJCAI’21 (Best Paper Award).
 
 - Qi, Yi, Philippa Ryan Conmy, **Wei Huang**, Xingyu Zhao, and Xiaowei Huang. "A hierarchical HAZOP-like safety analysis for learning-enabled systems." In AISafety’22 Workshop at IJCAI’22.
