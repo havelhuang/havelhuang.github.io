@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! My name is Wei Huang. I am currently a researcher at Purple Mountain Laboratories. I obtained my PhD in the Computer Science Department at the University of Liverpool and was supervised by [Dr. Xiaowei Huang](https://cgi.csc.liv.ac.uk/~xiaowei/) and [Dr. Xingyu Zhao](https://x-y-zhao.github.io/). Prior to study at University of Liverpool, I received my MSc degree at Imperial College London and BSc degree at Xiamen University.
+Hi there! My name is Wei Huang. I am currently a researcher at Purple Mountain Laboratories. I obtained my PhD in the Computer Science Department at the University of Liverpool and was supervised by [Dr. Xiaowei Huang](https://cgi.csc.liv.ac.uk/~xiaowei/) and [Dr. Xingyu Zhao](https://www.xzhao.me/). Prior to study at University of Liverpool, I received my MSc degree at Imperial College London and BSc degree at Xiamen University.
 
 
 Reseach Interest
