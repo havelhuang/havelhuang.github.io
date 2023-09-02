@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+- **Huang, Wei**, Xingyu Zhao, Alec Banks, Victoria Cox, Xiaowei Huang. "Hierarchical Distribution-Aware Testing of Deep Learning." ACM Transactions on Software Engineering and Methodology (**TOSEM**), 2023.
+
 - **Huang, Wei**, Xingyu Zhao, Gaojie Jin, and Xiaowei Huang. "SAFARI: Versatile and Efficient Evaluations for Robustness of Interpretability." In Proceedings of the IEEE/CVF International Conference on Computer Vision (**ICCV**), 2023.
 
 - Dong, Yi\*, **Wei Huang**\*, Vibhav Bharti, Victoria Cox, Alec Banks, Sen Wang, Xingyu Zhao, Sven Schewe, and Xiaowei Huang. "Reliability assessment and safety arguments for machine learning components in system assurance." ACM Transactions on Embedded Computing Systems (**TECS**) 22, no. 3 (2023): 1-48.
