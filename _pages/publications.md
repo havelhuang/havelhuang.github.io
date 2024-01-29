@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-- Xinwei Yuan, Shu Han, **Wei Huang**\^, Hongliang Ye, Xianglong Kong, Fan Zhang. "A Simple Framework to Enhance the Adversarial Robustness of Deep Learning-based Intrusion Detection System." Computers & Security (**COSE**), 2023.
+- Xinwei Yuan, Shu Han, **Wei Huang**^, Hongliang Ye, Xianglong Kong, Fan Zhang. "A Simple Framework to Enhance the Adversarial Robustness of Deep Learning-based Intrusion Detection System." Computers & Security (**COSE**), 2023.
 - **Huang, Wei**, Xingyu Zhao, Alec Banks, Victoria Cox, Xiaowei Huang. "Hierarchical Distribution-Aware Testing of Deep Learning." ACM Transactions on Software Engineering and Methodology (**TOSEM**), 2023.
 
 - **Huang, Wei**, Xingyu Zhao, Gaojie Jin, and Xiaowei Huang. "SAFARI: Versatile and Efficient Evaluations for Robustness of Interpretability." In Proceedings of the IEEE/CVF International Conference on Computer Vision (**ICCV**), 2023.
