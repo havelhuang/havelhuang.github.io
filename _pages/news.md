@@ -4,6 +4,7 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+- (07/2023) I get one Paper “A Simple Framework to Enhance the Adversarial Robustness of Deep Learning-based Intrusion Detection System.” accepted to Computers & Security !
 - (07/2023) I get one Paper “Hierarchical Distribution-Aware Testing of Deep Learning.” accepted to ACM Transactions on Software Engineering and Methodology !
 - (07/2023) I get one Paper “SAFARI: Versatile and Efficient Evaluations for Robustness of Interpretability.” accepted to ICCV 2023 !
 - (05/2022) I am honored to have my doctoral reseach featured in the university's news column: ["Becoming an Expert: Safety Problems in Learning-enabled Autonomous System"](https://www.liverpool.ac.uk/computer-science/news/articles/becoming-an-expert-safety-problems-in-learning-enabled-autonomous-system).
