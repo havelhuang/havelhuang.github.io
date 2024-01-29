@@ -17,5 +17,6 @@ My research interest remains in the field of AI safety. Machine learning models 
 
 Recent News
 ======
-- (07/2023)  Paper "SAFARI: Versatile and Efficient Evaluations for Robustness of Interpretability" has been accepted to ICCV 2023 ! 
+- (09/2023)  Paper "A Simple Framework to Enhance the Adversarial Robustness of Deep Learning-based Intrusion Detection System" has been accepted to Computers & Security ! 
 - (09/2023)  Paper "Hierarchical Distribution-Aware Testing of Deep Learning" has been accepted to TOSEM ! 
+- (07/2023)  Paper "SAFARI: Versatile and Efficient Evaluations for Robustness of Interpretability" has been accepted to ICCV 2023 ! 
