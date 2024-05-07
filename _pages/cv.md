@@ -29,10 +29,9 @@ Teaching
  * Demonstrator of first year module “Foundations of Computer Science”
  * Demonstrator of second year module “Advanced Artificial Intelligence” 
 
-Skills
+Professional Services
 ======
-* Proficient in MS office, Adobe Photoshop
-* Familiar with C/C++, Python, Fortran, Solidworks, AutoCAD
+* Reviewer for NeurIPS, ICLR, CVPR.
 
 Funding and Awards
 ======
