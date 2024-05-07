@@ -4,6 +4,9 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+- (04/2024) One Paper “Diversity supporting robustness: Enhancing adversarial robustness via differentiated ensemble predictions.” accepted to Computers & Security.
+- (03/2024) One Paper “Formal Verification of Robustness and Resilience of Learning-Enabled State Estimation Systems.” accepted to Neurocomputing.
+- (03/2024) One Paper “Ensemble Adversarial Defense via Integration of Multiple Dispersed Low Curvature Models.” accepted to IJCNN 2024.
 - (12/2023) I get one Paper “A Simple Framework to Enhance the Adversarial Robustness of Deep Learning-based Intrusion Detection System.” accepted to Computers & Security !
 - (09/2023) I get one Paper “Hierarchical Distribution-Aware Testing of Deep Learning.” accepted to ACM Transactions on Software Engineering and Methodology !
 - (07/2023) I get one Paper “SAFARI: Versatile and Efficient Evaluations for Robustness of Interpretability.” accepted to ICCV 2023 !
