@@ -32,4 +32,4 @@ Worshop Papers
 
 - Qi, Yi, Philippa Ryan Conmy, **Wei Huang**, Xingyu Zhao, and Xiaowei Huang. "A hierarchical HAZOP-like safety analysis for learning-enabled systems." In AISafety’22 Workshop at IJCAI’22.
   
-You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=qwqKoMAAAAAJ&hl=en)
+\* signifies equal contributions and † represents corresponding author. You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=qwqKoMAAAAAJ&hl=en)
