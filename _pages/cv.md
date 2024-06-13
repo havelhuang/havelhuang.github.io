@@ -17,7 +17,7 @@ Education
   
 Publications
 ======
-  check the post in [Publications](https://havelhuang.github.io/publications/)
+check the post in [Publications](https://havelhuang.github.io/publications/)
 
 Project Experience
 ======
@@ -26,8 +26,8 @@ Project Experience
   
 Teaching
 ======
- * Demonstrator of first year module “Foundations of Computer Science”
- * Demonstrator of second year module “Advanced Artificial Intelligence” 
+* Demonstrator of first year module “Foundations of Computer Science”
+* Demonstrator of second year module “Advanced Artificial Intelligence” 
 
 Professional Services
 ======
@@ -35,12 +35,18 @@ Professional Services
 
 Funding and Awards
 ======
- * Excellent Graduate of Xiamen University (2017) 
- * Scholarship set up by Chen Binjie, chairman of Taikoo (Xiamen) Aircraft Engineering Company Ltd. (2016)
- * Scholarship set up by Tan Chong International (2015)
- * Activist in university’s social practice (2015)
- * Member of excellent social practice team (2015)
- * First class academic scholarship set up by Xiamen University (2014 - 2017)
 
+* **2024 Jiangsu Province Excellent Postdoctoral Program**
+  - **Project Title:** Key Technological Research on the Endogenous Safety and Security of Deep Learning Models
+  - **Role:** Principal Investigator
+  - **Funding Amount:** 300,000 yuan
+
+* Excellent Graduate of Xiamen University (2017)
+* Excellent Graduate of Xiamen University (2017)
+* Scholarship set up by Chen Binjie, chairman of Taikoo (Xiamen) Aircraft Engineering Company Ltd. (2016)
+* Scholarship set up by Tan Chong International (2015)
+* Activist in university’s social practice (2015)
+* Member of excellent social practice team (2015)
+* First class academic scholarship set up by Xiamen University (2014 - 2017)
 
 
