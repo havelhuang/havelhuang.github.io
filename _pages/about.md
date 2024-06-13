@@ -17,6 +17,7 @@ My research interest remains in the field of AI safety. Machine learning models 
 
 Recent News
 ======
+- (06/2024)  The project titled "Key Technological Research on the Endogenous Safety and Security of Deep Learning Models" has received funding under the 2024 Jiangsu Province Excellent Postdoctoral Program. 
 - (03/2024)  Paper "Diversity Supporting Robustness: Enhancing Adversarial Robustness via Differentiated Ensemble Predictions" has been accepted to Computers & Security. 
 - (04/2024)  Paper "Formal Verification of Robustness and Resilience of Learning-Enabled State Estimation Systems" has been accepted to Neurocomputing. 
 - (09/2023)  Paper "Hierarchical Distribution-Aware Testing of Deep Learning" has been accepted to TOSEM. 
