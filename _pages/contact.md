@@ -6,7 +6,7 @@ author_profile: true
 ---
 Name: Wei Huang
 
-Address: Purple Mountain Laboratories, No.9, Muozhou East Road, Jiangning District, Nanjing, China
+Address: Institute of AI for Industries, Chinese Academy of Sciences, No. 168, Tianquan Road, Jiangning District, Nanjing, Jiangsu, China.
 
 Email: havelhuang at gmail.com
 
